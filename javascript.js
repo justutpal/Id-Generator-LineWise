@@ -10,7 +10,7 @@ let eCopy = document.querySelector(".eCopy");
 let iCopy = document.querySelector(".iCopy");
 let copyWhole = document.querySelector(".copyWhole");
 let pCopy = document.querySelector(".pCopy");
-let mainPass = "Alam1234"
+let mainPass = "Alam@1234"
 
 
 let alphabet = "abcdefghijklmnopqrstuvwxyz"
